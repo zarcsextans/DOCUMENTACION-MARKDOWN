@@ -9,12 +9,12 @@ Este documento explica paso a paso cómo se calculan los determinantes de varias
 
 La fórmula general para una matriz:
 
-\[
+$$
 \begin{pmatrix}
 a & b \\
 c & d
 \end{pmatrix}
-\]
+$$
 
 es:
 
