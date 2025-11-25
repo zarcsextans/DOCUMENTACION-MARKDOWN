@@ -2,7 +2,7 @@
 ## Materia: Fundamentos de álgebra
 ## Alumno: Scarlet Angelina Ruelas Cardeña
 ## Actividad \#16 - Matrices doc
-## Fecha: 11/Octubre/2025
+## Fecha: 11/Noviembre/2025
 ## Descripción: En esta actividad se modificará el código utilizando formato Markdown de manera que al ejecutarlo se muestre los cambios del documento con los datos personales y de la materia a la vez que resolvemos los ejercicios.
 ---
 ### Ejercicio 1: Clasificar matrices  
