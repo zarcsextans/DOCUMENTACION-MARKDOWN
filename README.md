@@ -2,7 +2,7 @@
 ## Materia: Fundamentos de álgebra
 ## Alumno: Scarlet Angelina Ruelas Cardeña
 ## Actividad \#18 - Matrices doc
-## Fecha: 18/Octubre/2025
+## Fecha: 18/Noviembre/2025
 ## Descripción: En esta actividad se modificará el código utilizando formato Markdown de manera que al ejecutarlo se muestre los cambios del documento con los datos personales y de la materia a la vez que resolvemos los ejercicios de la clase anterior.
 # Determinantes de Matrices 2×2  
 Este documento explica paso a paso cómo se calculan los determinantes de varias matrices 2×2.
