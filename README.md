@@ -593,5 +593,3 @@ Aprender a documentar matrices en Excel, mejorando habilidades en la organizaci√
 ---
 
 
-
--Vamonos a momir que hay que estudiar para Arquitectura.
