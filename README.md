@@ -12,6 +12,8 @@
 
 ## Grupo: B
 
+## Fecha: 25/11/1015
+
   
 
 ## Actividad #20. documentacion de matrices
