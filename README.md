@@ -2,7 +2,7 @@
 ## Materia: Fundamentos de álgebra
 ## Alumno: Scarlet Angelina Ruelas Cardeña
 ## Grupo: B
-## Fecha: 11/11/2025
+## Fecha: 18/11/2025
 ## Actividad #18.  Matrices documentación
 
 
